@@ -5,3 +5,4 @@ sdkconfig.old
 *.bin
 *.elf
 *.map
+main/keyword_model.h
